@@ -107,7 +107,7 @@ All preprocessing scripts read **monthly** model output. The table below lists e
 
 The full workflow consists of three stages. Run them in order.
 
-### Stage 1 — Conpute Input Variables
+### Stage 1 — Compute Input Variables
 
 Run the three scripts for all years of interest. Each script reads model output, performs unit conversion, and saves the result as a NetCDF file. Edit the **User Settings** block at the top of each script before running.
 
@@ -196,4 +196,4 @@ Gilford, D. M. 2020: pyPI: Potential Intensity Calculations in Python, pyPI v1.3
 
 If you use this code in your research, please cite this repository and the associated paper:
 
-Xia, Yi, et al. "Dependence of Global Tropical Cyclones on the Tropical Pacific Mean State in the HighResMIP Models." Journal of Climate 39.4 (2026): 1099-1118.
+Xia, Yi, et al. "Dependence of Global Tropical Cyclones on the Tropical Pacific Mean State in the HighResMIP Models." Journal of Climate 39.4 (2026): 1099-1118. https://doi.org/10.1175/JCLI-D-25-0317.1
